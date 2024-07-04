@@ -52,7 +52,7 @@
     </p>
     <span
         class="u-file-icon u-hover-feature u-icon u-text-white u-icon-2"
-        data-href="Home.html#carousel_24c2"
+        data-href="#date"
         data-custom-animation='{"animation":{"XXL":{"steps":[],"hidden":false,"start":{"at":"bottom","off":0},"end":{"at":"top","off":0}},"XL":{"steps":[{"dist":1,"skip":0,"blur":10,"sticky":false,"fixed":true,"mx":0,"my":0,"op":0.5,"rot":0,"sx":3,"sy":3,"bgy":0}],"hidden":false,"start":{"at":"middle","off":0},"end":{"at":"top","off":0}},"LG":{"steps":[],"hidden":false,"start":{"at":"bottom","off":0},"end":{"at":"top","off":0}},"MD":{"steps":[],"hidden":false,"start":{"at":"bottom","off":0},"end":{"at":"top","off":0}},"SM":{"steps":[],"hidden":true,"start":{"at":"bottom","off":0},"end":{"at":"top","off":0}},"XS":{"steps":[],"hidden":true,"start":{"at":"bottom","off":0},"end":{"at":"top","off":0}}},"container":""}'
         ><img src="/assets/images/iconArrowDown.png" alt=""
     /></span>
@@ -227,7 +227,7 @@
     <p
         class="u-align-center u-text u-text-body-alt-color u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-2"
     >
-        Rumah Ibu Theo Syafe'i
+        Rumah Ibu Theo Syafe'i / Graha T 65
     </p>
     <div
         class="u-align-center u-border-3 u-border-white u-container-style u-expanded-width-xs u-group u-group-1"
@@ -353,13 +353,13 @@
                 alt=""
                 data-image-width="1536"
                 data-image-height="806"
-                src="/assets/images/ripped-jeans.jpg"
+                src="/assets/images/cargo_pants.jpeg"
             />
             <h4 class="u-align-left u-text u-text-body-alt-color u-text-5">
-                Ripped Jeans
+                Cargo Pants
             </h4>
             <p class="u-align-left u-text u-text-body-alt-color u-text-6">
-                Source: glamour.com
+                Source: pinterest.com
             </p>
             </div>
         </div>
@@ -374,10 +374,10 @@
                 alt=""
                 data-image-width="735"
                 data-image-height="934"
-                src="/assets/images/BlackGuySummerOutfits.jpeg"
+                src="/assets/images/cargo_skirts.jpg"
             />
             <h4 class="u-align-left u-text u-text-body-alt-color u-text-7">
-                Oversize Outfits
+                Cargo Skirts
             </h4>
             <p class="u-align-left u-text u-text-body-alt-color u-text-8">
                 Source: pinterest.com
@@ -457,12 +457,12 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         style="padding: 10px"
         >
         <div class="u-form-group u-label-none">
-            <label for="email-bb9b" class="u-label">Email</label>
+            <label for="email-bb9b" class="u-label">Name</label>
             <input
             type="text"
             placeholder="Enter your name"
             id="email-bb9b"
-            name="text"
+            name="name"
             class="u-grey-10 u-input u-input-rectangle u-radius-50"
             required="required"
             />
@@ -472,7 +472,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
             <div class="u-form-select-wrapper">
             <select
                 id="select-0c59"
-                name="select"
+                name="gereja"
                 class="u-grey-10 u-input u-input-rectangle u-radius u-input-2"
             >
                 <option value="Bethania" data-calc="Bethania">
@@ -581,7 +581,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         class="u-social-url"
         title="instagram"
         target="_blank"
-        href="https://instagram.com/gepemulti"
+        href="https://instagram.com/gepe.multi"
         ><span
             class="u-file-icon u-icon u-social-icon u-social-instagram u-icon-2"
             ><img src="/assets/images/5619061.png" alt=""
