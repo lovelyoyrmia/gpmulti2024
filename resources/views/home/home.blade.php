@@ -446,7 +446,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
     <h2
         class="u-align-center u-custom-font u-text u-text-palette-5-light-3 u-text-1"
     >
-        Are you attend this event?
+        Will you attend this event?
     </h2>
     <div class="u-expanded-width-xs u-form u-form-1">
         <form
