@@ -2,6 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('home/home');
+Route::middleware(["track"])->group(function () {
+    Route::get('/', function () {
+        return redirect("/invitation");
+    });
+    Route::get('/invitation', function () {
+        return view('home/home');
+    });
 });
