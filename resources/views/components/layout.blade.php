@@ -34,7 +34,7 @@
     <link
       id="u-page-google-font"
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Bagel+Fat+One:400|Gravitas+One:400"
+      href="https://fonts.googleapis.com/css?family=Bagel+Fat+One:400|Monofett:400|Bungee+Shade:400"
     />
 
     <script type="application/ld+json">
