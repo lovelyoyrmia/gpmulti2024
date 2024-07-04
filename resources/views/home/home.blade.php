@@ -8,8 +8,8 @@
 <section
     class="skrollable u-clearfix u-image u-section-1"
     id="home"
-    data-image-width="1600"
-    data-image-height="1120"
+    data-image-width="1080"
+    data-image-height="1080"
 >
     <div class="u-clearfix u-sheet u-sheet-1">
     <div
@@ -63,8 +63,8 @@
 <section
     class="u-clearfix u-image u-section-2"
     id="date"
-    data-image-width="1600"
-    data-image-height="1120"
+    data-image-width="1080"
+    data-image-height="1080"
 >
     <div class="u-clearfix u-sheet u-sheet-1">
     <h5
@@ -217,8 +217,8 @@
 <section
     class="u-clearfix u-image u-section-3"
     id="maps"
-    data-image-width="1600"
-    data-image-height="1120"
+    data-image-width="1080"
+    data-image-height="1080"
 >
     <div class="u-clearfix u-sheet u-sheet-1">
     <h5

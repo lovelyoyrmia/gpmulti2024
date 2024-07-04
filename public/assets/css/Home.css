@@ -1,6 +1,6 @@
 .u-section-1 {
-    background-image: url("/assets/images/background.jpg");
-    background-position: 50% 50%;
+    background-image: url("/assets/images/2.png");
+    background-position: 50% 0%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -291,8 +291,8 @@
     transform: scale(1.1) translateX(0px) translateY(0px) !important;
 }
 .u-section-2 {
-    background-image: url("/assets/images/background.jpg");
-    background-position: 50% 50%;
+    background-image: url("/assets/images/3.png");
+    background-position: 50% 100%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -649,8 +649,8 @@
     transform: translateX(0px) translateY(-5px) !important;
 }
 .u-section-3 {
-    background-image: url("/assets/images/background.jpg");
-    background-position: 50% 50%;
+    background-image: url("/assets/images/4.png");
+    background-position: 50% 0%;
 }
 
 .u-section-3 .u-sheet-1 {
