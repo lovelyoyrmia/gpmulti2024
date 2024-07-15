@@ -491,8 +491,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                 GP Penabur
                 </option>
                 <option data-calc="Horeb" value="GP Horeb">GP Horeb</option>
-                <option data-calc="Pelita Harapan" value="GP Pelita Harapan">
-                GP Pelita Harapan
+                <option data-calc="Pelita" value="GP Pelita">
+                GP Pelita
                 </option>
                 <option data-calc="Menara Iman" value="GP Menara Iman">
                 GP Menara Iman
